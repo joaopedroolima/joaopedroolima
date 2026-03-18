@@ -1,6 +1,7 @@
 ## Hi there! <...>
 
-I'm João Pedro Oliveira, a Software Engineering student at the Universidade Católica de Brasília (Catholic University of Brasília). I'm a back-end developer and technology enthusiast. Welcome to my Github.
+I'm João Pedro Oliveira, a Software Engineering student at the Universidade Católica de Brasília (Catholic University of Brasília). I'm a back-end developer and technology enthusiast. 
+Welcome to my Github.
 
 ## About Me
 
